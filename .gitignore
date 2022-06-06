@@ -1,0 +1,9 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+*.suo
+/Algorithm/.vs/Algorithm/v17
+/Algorithm/.vs/Algorithm/FileContentIndex
+/Algorithm/Algorithm/x64/Debug
+/Algorithm/Maze/x64/Debug
